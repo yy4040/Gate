@@ -1,0 +1,3 @@
+﻿//ID	NAME		IMG_PATH	LABEL_OFFSET	CARD_DECK_ID	GATE_DECK_ID
+1	세콰이어	master1		180		1		1
+2	제드		master2		158		2		2

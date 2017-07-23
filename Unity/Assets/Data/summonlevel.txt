@@ -1,0 +1,17 @@
+﻿1	마나쉴드	50% 피해감소	ui/game/btnSummon1.png
+2	선혈의맹약	2배 증폭	ui/game/btnSummon2.png
+3	어둠의맹약	3배 증폭	ui/game/btnSummon3.png
+3.5	어둠의맹약	3.5배 증폭	ui/game/btnSummon3.png
+4	어둠의맹약	4배 증폭	ui/game/btnSummon3.png
+4.5	어둠의맹약	4.5배 증폭	ui/game/btnSummon3.png
+5	어둠의맹약	5배 증폭	ui/game/btnSummon3.png
+5.5	붉은달맹약	5.5배 증폭	ui/game/btnSummon4.png
+6	붉은달맹약	6배 증폭	ui/game/btnSummon4.png
+6.5	붉은달맹약	6.5배 증폭	ui/game/btnSummon4.png
+7	붉은달맹약	7배 증폭	ui/game/btnSummon4.png
+7.5	붉은달맹약	7.5배 증폭	ui/game/btnSummon4.png
+8	죽음의맹약	8배 증폭	ui/game/btnSummon5.png
+8.5	죽음의맹약	8.5배 증폭	ui/game/btnSummon5.png
+9	죽음의맹약	9배 증폭	ui/game/btnSummon5.png
+9.5	죽음의맹약	9.5배 증폭	ui/game/btnSummon5.png
+10	죽음의맹약	10배 증폭	ui/game/btnSummon5.png

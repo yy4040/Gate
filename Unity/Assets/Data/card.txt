@@ -1,0 +1,13 @@
+﻿//ID	NAME		IMG_PATH	GROW_TYPE	ATTACK_TYPE	ATTACK	HP	LABEL_OFFSET
+1	파이터		fighter		health		fire		2000	18000	196
+2	라이칸		lycan		health		earth		2000	18000	226
+3	비버킹		beaverking	health		water		2000	18000	136
+4	마녀		whitch		health		earth		2000	18000	192
+5	장군		general		balance		fire		3000	13500	216
+6	음유시인	musician	balance		water		3000	13500	208
+7	도적		thief		balance		water		3000	13500	164
+8	아처		archer		balance		earth		3000	13500	212
+9	검사		swordman	attack		earth		4000	9000	180
+10	얼음마법사	icemagician	attack		water		4000	9000	204
+11	흑마법사	darkmagician	attack		fire		4000	9000	196
+12	암살자		assasin		attack		fire		4000	9000	172

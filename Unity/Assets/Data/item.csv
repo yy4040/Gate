@@ -1,0 +1,9 @@
+﻿//ID,CODE,NAME,IMG,VALUE
+0,EXP,소형물약,-,150
+1,EXP,중형물약,-,300
+2,EXP,대형물약,-,500
+3,ART,힐링포션,artefact/HealPortion.png,0
+4,ART,파이어볼,artefact/FireBall.png,1
+5,ART,게이트 재개방,artefact/ReopenGate.png,2
+6,ART,폭주,artefact/Rage.png,3
+7,ART,조커강림,artefact/Joker.png,4

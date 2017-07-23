@@ -1,0 +1,7 @@
+//ID	GATE_NUMBER	IMG_N_PATH	IMG_J_PATH
+1	1		normal		joker
+2	2		normal		joker
+3	3		normal		joker
+4	4		normal		joker
+5	5		normal		joker
+6	6		normal		joker

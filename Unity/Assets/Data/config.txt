@@ -1,0 +1,17 @@
+﻿ActionSpeed = 3
+GateRate_6 = 2
+GateRate_5 = 10
+GateRate_4 = 45
+GateRate_3 = 35
+GateRate_2 = 8
+JokerRate = 20
+JokerPower = 2.0
+BeginMaxBettingIdx = 2
+EndMaxBettingIdx = 16
+DefaultATBonus = 1.3
+Evolution1 = 10
+Evolution2 = 30
+Evolution3 = 50
+MaxLv = 55
+PointMoveTime = 0.5
+SelectTime = 2.0
